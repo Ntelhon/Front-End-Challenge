@@ -1,0 +1,74 @@
+body {
+    background-color: aquamarine;
+}
+
+#header {
+    margin-top: 5px;
+    padding: 15px;
+    height: 150px;
+    background-color:bisque;
+}
+
+#big-logo {
+    float: left;
+    background-color: rgb(75, 238, 151);
+    width: 330px;
+    height: 150px;
+    text-align: center;
+}
+
+#big-logo a {
+    text-decoration: none;
+}
+
+.nav-top {
+    height: inherit;
+    text-align: center;
+    background-color: #ffa;
+}
+
+nav.nav-top button {
+    margin: 50px 25px;
+    font-size: 1.5em;
+    border-radius: 1em;
+    border-width: 1.2px;
+    padding: 10px;
+    background-color: rgb(93, 255, 179);
+}
+
+main {
+    background-color:plum;
+    padding: 15px;
+    min-height: 700px;
+
+}
+
+aside {
+    width: 280px;
+    min-height: 700px;
+    background-color:rgb(142, 140, 143);
+    padding-right: 50px;
+    float: left;
+    text-align: center;
+    list-style-position: inside;
+}
+
+.left-nav {
+    font-size: 1.25em;
+    margin: 30px;
+}
+
+section#main-section article {
+    padding: 50px;
+    margin-left: 420px;
+}
+
+article {
+    margin: 75px;
+}
+
+article#about-us {
+    text-align: center;
+    margin: 5px;
+    font-size: 1.5em;
+}
