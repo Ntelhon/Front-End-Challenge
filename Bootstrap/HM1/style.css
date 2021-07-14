@@ -1,0 +1,55 @@
+header {
+    background-color: #94D0CC;
+}
+
+#logo  {
+    height: 152px;
+}
+
+#nav-top li {
+    list-style-type: none;
+}
+
+main {
+    background-color:#EEC4C4;
+    padding: 0 15px;
+    min-height: 700px;
+}
+
+aside {
+    min-height: 700px;
+    background-color:#C9E4C5;
+    list-style-position: inside;
+}
+
+aside ul {
+    margin: 30px 10%;
+    font-size: 1.25em;
+}
+
+aside li {
+    margin-bottom: 20px;
+}
+
+section {
+    padding-left: 20px;
+}
+
+section h2 {
+    padding-top: 40px;
+}
+
+#main-section article {
+    padding: 50px;
+    margin-left: 35px;
+}
+
+article {
+    margin: 75px;
+}
+
+article#about-us {
+    text-align: center;
+    margin: 5px;
+    font-size: 1.5em;
+}
